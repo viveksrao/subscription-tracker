@@ -5,4 +5,5 @@ npx eslint --init
 npm i dotenv
 npm install mongodb mongoose
 npm install jsonwebtoken bcryptjs
+npm i @arcjet/node
 ```
